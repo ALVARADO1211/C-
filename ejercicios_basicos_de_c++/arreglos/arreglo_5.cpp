@@ -7,7 +7,7 @@ int mayor = arreglo[0];
 
 int main()
 {
-    for(int x=0; x<5; x++)
+    for(int x=1; x<5; x++)
     {
         if(arreglo[x] > mayor)
         {
